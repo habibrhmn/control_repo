@@ -1,3 +1,3 @@
 # control_repo
 
-This is a test repo
+Puppet demo jobs
